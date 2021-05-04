@@ -43,14 +43,18 @@ article{
 figure img{
     padding: 0 233px;
     float:left;
+    margin: 20px ;
+    padding-right: 30px;
 }
 
 
 figure p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 10; 
+    font-weight: 10;
 
 }
+
+
 
  h2{
     background-color:black;
@@ -71,7 +75,7 @@ footer{
 }
 
 footer{
-    padding: 40px;
+    padding: 30px;
     background-color: dimgrey;
 }
 
