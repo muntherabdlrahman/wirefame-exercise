@@ -33,18 +33,20 @@ nav ul img{
    
 section{
     padding:  0 250px;
+    margin: 25px;
 }
 
 article{
-    margin: 0 275px ;
+    margin: 0 297px ;
+
 }
 
 
 figure img{
-    padding: 0 233px;
+    padding: 0 256px;
     float:left;
-    margin: 20px ;
-    padding-right: 30px;
+    margin: 3px ;
+    padding-right: 20px;
 }
 
 
